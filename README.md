@@ -142,7 +142,7 @@ while True:
 ```
 
 
-### OUPUT  
+## OUPUT  
 
 
 # FIGURE -02 LED WITH TIME DELAY:
@@ -158,6 +158,7 @@ while True:
 # FIGURE -04  LED AND BUZZER IN SERIES WITH TIME DELAY:
 
 <img width="506" height="472" alt="image" src="https://github.com/user-attachments/assets/9acf8c90-7e4e-4d86-9b90-d93535dabe99" />
+
 
 # RESULTS
 
