@@ -41,7 +41,7 @@ Connect the cathode (shorter leg) of the LED to GND (ground).
 
 ## PROGRAM (MicroPython)
 
-FIGURE -02 LED WITH TIME DELAY: 
+# FIGURE -02 LED WITH TIME DELAY: 
 
 ```
 from machine import Pin
@@ -56,7 +56,7 @@ while True:
     time.sleep(1)
  
 ```
-FIGURE -03 THREE LED IN SERIES WITH TIME DELAY:
+# FIGURE -03 THREE LED IN SERIES WITH TIME DELAY:
 
 ```
 from machine import Pin
@@ -97,7 +97,7 @@ while True:
     time.sleep(1) 
 
 ```
-FIGURE -04 LED AND BUZZER IN SERIES WITH TIME DELAY:
+# FIGURE -04 LED AND BUZZER IN SERIES WITH TIME DELAY:
 
 ```
 from machine import Pin
@@ -163,8 +163,3 @@ while True:
 
 The LED connected to the Raspberry Pi Pico successfully turns ON and OFF at user defined time confirming the proper interfacing of a digital output.
 
-
-
- 
-## RESULTS
-The LED connected to the Raspberry Pi Pico successfully turns ON and OFF at  user defined time  confirming the proper interfacing of a digital output.
